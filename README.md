@@ -95,7 +95,7 @@ Planned improvements may include:
 
 Visit the live portfolio:
 
-**[Avilash Portfolio](#)**
+**[Avilash Portfolio](https://nag28102004.github.io/Avilash-Portfolio-2/#contact)**
 
 Replace the link above with your deployed portfolio URL.
 
